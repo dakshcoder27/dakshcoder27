@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dakshcoder27
 - 👀 I’m interested in problem solving,webd,ai/ml
 - 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on Projects using web development
+- 💞️ I’m looking to collaborate on Projects using ai/ml,Web dev
 - 📫 How to reach me dakshbilla2004@gmail.com
 - 😄 Pronouns: Linked list,Priority queue
 - ⚡ Fun fact: 
